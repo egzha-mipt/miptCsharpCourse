@@ -1,0 +1,7 @@
+
+Написать класс User. 
+У него должен быть метод GetFullNameAndId и поле Id, которые доступны извне.
+Должен отрабатывать примерно такой код:
+user.GetFullNameAndId() // "Иван Петров c ID=4"
+Внутри GetFullNameAndId нужно использовать StringBuilder()
+ 
