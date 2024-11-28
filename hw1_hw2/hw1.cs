@@ -8,7 +8,7 @@
    Числа от пользователя получать через console.readline()
  */
 
-namespace miptCsharpCourse // Note: actual namespace depends on the project name.
+namespace hw1_hw2 // Note: actual namespace depends on the project name.
 {
     internal class Numbers
     {
